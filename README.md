@@ -35,7 +35,7 @@ Currently, I am focusing on enhancing my skills in React. I am working on small 
 Feel free to reach out to me for collaboration or any frontend development opportunities:
 
 - **Email**: (adebisiadetayo70@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/adebisi-adetayo)
+- **LinkedIn**: (https://www.linkedin.com/in/adetayo-adebisi)
 - **GitHub**: (https://github.com/urbanbot001)
 
 Thank you for visiting my README. Let's build something amazing together!
