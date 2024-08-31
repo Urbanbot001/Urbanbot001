@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I am Adetayo Adebisi a passionate frontend web developer with a strong foundation in HTML, CSS, and JavaScript. I am dedicated to creating responsive and visually appealing websites. My goal is to deliver high-quality web experiences that meet user needs and enhance digital interactions.
+Hi, I am Adetayo Adebisi a passionate frontend web developer with a strong foundation in React.js,Next.js, HTML, CSS, and JavaScript. I am dedicated to creating responsive and visually appealing websites. My goal is to deliver high-quality web experiences that meet user needs and enhance digital interactions.
 
 ## Skills
 
@@ -10,7 +10,7 @@ Hi, I am Adetayo Adebisi a passionate frontend web developer with a strong found
  - **HTML**: Proficient in semantic HTML, ensuring websites are accessible and SEO-friendly.
  - **CSS**: Skilled in CSS3, including Flexbox, Grid, and animations to create responsive and aesthetically pleasing layouts.
  - **JavaScript**: Experienced in vanilla JavaScript and familiar with modern ES6+ features.
- - **React**: Currently learning React to build dynamic and interactive web applications.
+ - **React**:Experienced in React to build dynamic and interactive web applications.
 
 
 ### Tools & Platforms
